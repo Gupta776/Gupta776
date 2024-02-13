@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Chaitanya Gupta, a tech enthusiast and developer :computer: diving into the exciting world of AI, ML, and Data Science to create cool stuff that pushes boundaries. Excited to explore new concepts and make technology more awesome! 
+I'm Chaitanya Gupta, a tech enthusiast and developer :computer: diving into the exciting world of AI, ML, and Data Science to create cool stuff that pushes boundaries. Excited to explore new concepts and make technology more awesome!!!
 
 <!--  add a line -->
 ---   
